@@ -1,0 +1,23 @@
+{
+  "name": "the-drop",
+  "version": "0.0.0",
+  "description": "drop app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floydedw/finalrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floydedw/finalrepo/issues"
+  },
+  "homepage": "https://github.com/floydedw/finalrepo",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.2.0"
+  }
+}
